@@ -1,5 +1,5 @@
 # Define a list of numbers
-numbers =[5,3,7,9,2]
+numbers =[15,13,17,19,12]
 
 #write the logic to calculate the sum of the numbers
 total_number=sum(numbers)
